@@ -1,0 +1,12 @@
+{
+  "name": "choose-for-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aerdnach/choose-for-me.git",
+  "author": "aerdnach <andreachieppa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}

@@ -6,7 +6,7 @@
   "author": "aerdnach <andreachieppa@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start":"node server/server.js",
+    "start": "node server/server.js",
     "serve": "live-server public/",
     "dev-server": "webpack-dev-server",
     "build": "webpack",

@@ -21,7 +21,7 @@ module.exports = {
             test: [/\.scss$/, /\.css$/]
         }]
     },
-    devtool: "cheap-module-eval-source-map",
+	devtool: 'eval-cheap-module-source-map',
     devServer: {
 	inline: false,
         contentBase: path.join(__dirname, 'public')

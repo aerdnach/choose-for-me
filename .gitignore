@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+config/
+src/playground
+
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
+
+
+# Optional npm cache directory
+.npm
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+.vscode
+.history
